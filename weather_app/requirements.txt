@@ -1,0 +1,4 @@
+# Will keep all the libraries.
+Flask
+gunicorn # it is required in cloud
+requests
